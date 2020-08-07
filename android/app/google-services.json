@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "670362661101",
+    "firebase_url": "https://registrationform-a5777.firebaseio.com",
+    "project_id": "registrationform-a5777",
+    "storage_bucket": "registrationform-a5777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670362661101:android:89de07463ba7fa6ba3dce4",
+        "android_client_info": {
+          "package_name": "com.example.calculaterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670362661101-j6kn56njbqfd5h7urv298cgihq1jaodu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoosUD9WP5bPrmBc7IAAQTdvAYV7sWAH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670362661101-j6kn56njbqfd5h7urv298cgihq1jaodu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
